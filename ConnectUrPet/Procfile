@@ -1,0 +1,1 @@
+web: java -jar build/libs/ConnectUrPet-1.0.jar
